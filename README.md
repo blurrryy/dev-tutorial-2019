@@ -16,11 +16,11 @@ Dies ist als Übersicht der aktuellen Webtechnologien zu verstehen, um diese ins
 
 ### Programmierfähigkeiten Einstieg
 
-Für den Einstieg benötigen wir eben HTML mit CSS bestenfalls Kenntnisse in **PHP** und/oder **JavaScript**.
+Für den Einstieg benötigen wir neben HTML mit CSS bestenfalls Kenntnisse in **PHP** und/oder **JavaScript**.
 
 ### Programmierpraxis sammeln
 
-Um sich in Programmierparadigmen verschiedener Schwierigkeitsstufen einzulesen, eignet sich z.B. sehr gut die Website [Codewars.com](www.codewars.com/r/3HC0Pg). Die Aufgaben der niedrigen Kyus bieten rundherum einen guten Einstieg, um ein Gefühl für Programmierung zu erlangen.
+Um sich in Programmierparadigmen verschiedener Schwierigkeitsstufen einzulesen und diese auch praktisch anzuwenden, eignet sich die Website [Codewars.com](www.codewars.com/r/3HC0Pg) sehr gut. Die Aufgaben der niedrigen Kyus bieten rundherum einen guten Einstieg, um ein Gefühl für die praktische Programmierung zu erlangen.
 
 ### Was sollte ich wissen?
 
