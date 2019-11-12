@@ -1,5 +1,5 @@
 ---
-description: Übersicht über alle benötigten Tools
+description: Übersicht über die Praktiken und Tools
 ---
 
 # DSG Webentwicklung 2019
@@ -18,7 +18,9 @@ Für den Einstieg benötigen wir eben HTML mit CSS bestenfalls Kenntnisse in **P
 
 Um sich in Programmierparadigmen verschiedener Schwierigkeitsstufen einzulesen, eignet sich z.B. sehr gut die Website [Codewars.com](www.codewars.com/r/3HC0Pg). Die Aufgaben der niedrigen Kyus bieten rundherum einen guten Einstieg, um ein Gefühl für Programmierung zu erlangen.
 
+### Was sollte ich wissen?
 
+Welche Fragen für den Anfang greifbar sein sollte, ist [hier](checkliste.md) aufgelistet.
 
 
 

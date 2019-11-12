@@ -1,8 +1,8 @@
 ---
-description: Nützliche Programme
+description: Visual Studio Code mit Schriftart und Plugins
 ---
 
-# Tools
+# Einrichtung VSCode
 
 Grundsätzlich wird zum Webentwicklung bei uns mit [Visual Studio Code](https://code.visualstudio.com/) gearbeitet.
 
