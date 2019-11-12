@@ -20,6 +20,10 @@ _12.11.2019:_
 * [ ] Was ist eine Schnittstelle?
 * [ ] Was sind Software Entwurfsmuster? \(z.B. MVC bzw. MVVM\)
 
+### Praktische Übungen
+
+Zum Grundlagentraining eignen sich - wie bereits erwähnt - die Übungen der untersten Stufen auf [Codewars.com ](www.codewars.com/r/3HC0Pg)
+
 
 
 

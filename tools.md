@@ -36,5 +36,7 @@ Dazu sind folgende Schritte in Visual Studio Code notwendig:
 | npm Intellisense | Bessere Codevorschläge beim Arbeiten mit nodejs |
 | Vetur | Bessere Interpretation von .vue Dateien |
 
-\*\*\*\*
+{% hint style="info" %}
+Visual Studio Code mit der Schriftart "Fira Code" und aktivierten Ligaturen gemeinsam mit dem "Bracket Pair Colorizer 2" bieten eine entscheidende Erleichterung im Umgang mit Programmiercode.
+{% endhint %}
 

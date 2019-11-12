@@ -8,6 +8,10 @@ description: Einstiegstutorials und Praktiken
 
 Eine kurze Übersicht, was zu den Grundlagen eines Webentwicklers zählen sollte, findet sich hier
 
+{% hint style="info" %}
+Wir werden uns den Technologien des folgenden Videos dann nähern, wenn sie benötigt sind.
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?v=uPMm4dJmSoM" caption="Eine generelle Zusammenfassung über wichtige Dinge" %}
 
 ### PHP
