@@ -12,7 +12,7 @@ Anbei führe ich nun eine Checkliste an, welche Fragen man zu Beginn seiner prak
 
 _12.11.2019:_
 
-* [ ] Was wir benötigt, um eine Website zu veröffentlichen? \(mit PHP, mit JavaScript?\)
+* [ ] Was wird benötigt, um eine Website zu veröffentlichen? \(mit PHP, mit JavaScript?\)
 * [ ] Was ist das Frontend?
 * [ ] Was ist das Backend?
 * [ ] Welche Sprachen verwenden wir für Frontend, welche fürs Backend oder welche gar für beides?
