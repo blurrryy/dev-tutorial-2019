@@ -28,6 +28,8 @@ Wichtig ist jedoch, dass ein fundamentales Wissen über grundlegendes \(Vanilla\
 
 {% embed url="https://www.youtube.com/watch?v=hdI2bqOjy3c" caption="Einführung in Vanilla JavaScript" %}
 
+Die Website von Flavio Copes bietet tägliche Programmiertipps, [hier](https://flaviocopes.com/tags/js/) z.B. für JavaScript.
+
 ### git
 
 Eine der größten Errungenschaften in der Webentwicklung ist zweifelsohne die praktische Versionsverwaltung durch git, weshalb git als essentieller Grundbaustein zu betrachten ist.
@@ -37,6 +39,8 @@ Eine der größten Errungenschaften in der Webentwicklung ist zweifelsohne die p
 
 
 ![Eine &#xDC;bersicht &#xFC;ber die wichtigsten Funktionen von git](https://i.pinimg.com/originals/ab/b4/16/abb4162b4b9228e20129169f39217c09.png)
+
+Die Website von Flavio Copes bietet [hier](https://flaviocopes.com/tags/git/) ebenfalls kurze git-Tutorials.
 
 ### SQL
 
