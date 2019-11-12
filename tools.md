@@ -2,7 +2,7 @@
 description: Visual Studio Code mit Schriftart und Plugins
 ---
 
-# Einrichtung VSCode
+# 1.1. Einrichtung VSCode
 
 Grundsätzlich wird zum Webentwicklung bei uns mit [Visual Studio Code](https://code.visualstudio.com/) gearbeitet.
 
