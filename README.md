@@ -6,7 +6,7 @@ description: Übersicht über die Praktiken und Tools
 
 ### Einführung
 
-FullStack Webentwicklung unterteilt man früher wie auch heute in Fronend und Backend, im folgenden Video gibt es eine umfangreiche Zusammenfassung, welche Skills hier derzeit dazu gehören und erlernt werden können.
+FullStack Webentwicklung unterteilt man früher wie auch heute in Frontend und Backend, im folgenden Video gibt es eine umfangreiche Zusammenfassung, welche Skills hier derzeit dazu gehören und erlernt werden können.
 
 {% embed url="https://www.youtube.com/watch?v=UnTQVlqmDQ0" caption="Übersicht über relevante Webtechnologien in 2019" %}
 

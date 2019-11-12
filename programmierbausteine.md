@@ -24,11 +24,13 @@ Auch wenn PHP in der modernen Webentwicklung einen eher mäßigen Ruf besitzt, i
 
 JavaScript ist in der heutigen Webentwicklung einer der wichtigsten Sprachen, die man lernen kann. Grundsätzlich kann im Jahr 2019 nahezu Alles \(inklusive Desktop-Apps, nativen Mobile-Apps, Computerspielen etc.\) mit JavaScript realisiert werden.
 
-Wichtig ist jedoch, dass ein fundamentales Wissen über grundlegends \(vanilla\) JavaScript vorhanden ist.
+Wichtig ist jedoch, dass ein fundamentales Wissen über grundlegendes \(Vanilla\) JavaScript vorhanden ist.
 
 {% embed url="https://www.youtube.com/watch?v=hdI2bqOjy3c" caption="Einführung in Vanilla JavaScript" %}
 
 ### git
+
+Eine der größten Errungenschaften in der Webentwicklung ist zweifelsohne die praktische Versionsverwaltung durch git, weshalb git als essentieller Grundbaustein zu betrachten ist.
 
 {% embed url="https://www.youtube.com/watch?v=SWYqp7iY\_Tc" caption="Eine Einführung in die wichtigsten Funktionen von git" %}
 
