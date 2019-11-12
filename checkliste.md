@@ -12,12 +12,12 @@ Anbei führe ich nun eine Checkliste an, welche Fragen man zu Beginn seiner prak
 
 _12.11.2019:_
 
-1. Was ist das Frontend?
-2. Was ist das Backend?
-3. Welche Sprachen verwenden wir für Frontend, welche fürs Backend oder welche gar für beides?
-4. Wie funktioniert die Kommunikation zwischen Frontend und Backend?
-5. Was ist eine Schnittstelle?
-6. Was sind Software Entwurfsmuster? \(z.B. MVC bzw. MVVM\)
+* [ ] Was ist das Frontend?
+* [ ] Was ist das Backend?
+* [ ] Welche Sprachen verwenden wir für Frontend, welche fürs Backend oder welche gar für beides?
+* [ ] Wie funktioniert die Kommunikation zwischen Frontend und Backend?
+* [ ] Was ist eine Schnittstelle?
+* [ ] Was sind Software Entwurfsmuster? \(z.B. MVC bzw. MVVM\)
 
 
 
